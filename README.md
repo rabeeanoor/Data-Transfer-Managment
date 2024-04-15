@@ -1,5 +1,5 @@
 
-# Camera Monitoring Data Management Script
+# Data Transfer Management Script
 
 ## Description:
 This script is used to manage video and image data from multiple cameras based on specific criteria. For each company and its associated cameras, the script will:
